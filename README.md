@@ -1,1 +1,1 @@
-# Marvy_Task1
+This Flutter app contains two screens: a Login and a Sign Up page. Each screen includes text fields, icons, and styled buttons with a soft purple-pink gradient background. The main() function starts the app with the Login screen. Users can navigate between the screens using Navigator. A helper function inputField() is used to create consistent input fields. The UI is clean and responsive, making it ideal for simple authentication interfaces.
